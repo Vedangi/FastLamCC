@@ -1,7 +1,7 @@
 # FastLamCC
 Faster approximation algorithms for LambdaCC
 
-Code for faster approximation algorithms for LambdaCC by rounding the lower bounds into a clustering solution according. This code accompanies the anonymous paper submited at CIKM 2023.
+Code for faster approximation algorithms for LambdaCC by rounding the lower bounds into a clustering solution according. This code accompanies the paper "Faster Approximation Algorithms for Parameterized Graph Clustering and Edge Labeling" submited at CIKM 2023.
 
 We build on some of the previous code from the work of Veldt (ICML 2022). A copy of the code along with license is included in the include folder.
 
